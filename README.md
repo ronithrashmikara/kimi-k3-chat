@@ -6,11 +6,11 @@ A focused local chat interface for **Kimi K3**, using the OpenAI-compatible Toke
 
 ### Light mode
 
-![Kimi K3 Chat — light mode](screenshots/kimi-k3-light.png)
+![Kimi K3 Chat — light mode](https://github.com/ronithrashmikara/kimi-k3-chat/blob/master/screenshots/kimi-k3-light.png?raw=true)
 
 ### Dark mode
 
-![Kimi K3 Chat — dark mode](screenshots/kimi-k3-dark.png)
+![Kimi K3 Chat — dark mode](https://github.com/ronithrashmikara/kimi-k3-chat/blob/master/screenshots/kimi-k3-dark.png?raw=true)
 
 ## Run locally
 
