@@ -1,3 +1,5 @@
+<p align="center"><img src="docs/assets/banner.webp" alt="Kimi K3 Chat banner" width="100%"></p>
+
 # Kimi K3 Chat
 
 A focused local chat interface for **Kimi K3**, using the OpenAI-compatible TokenRouter API. It includes editable system prompts, reasoning controls, light/dark mode, Markdown rendering, fixed navigation/settings panels, and a K favicon.
